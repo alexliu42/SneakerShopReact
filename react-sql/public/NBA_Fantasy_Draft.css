@@ -1,0 +1,58 @@
+body{
+	background-color: #1569C7;
+}
+#container{
+	background-color: white;
+	width:1000px;
+	margin: 0 auto;
+}
+header{
+	background-color: #FFA500;
+	color: darkred;
+	border: 4px darkred dashed;
+	text-align: center;
+	margin: 0;
+}
+aside{
+	width: 300px;
+	float: left;
+	padding-left: 2px; 
+}
+article{
+	width: 300px;
+	float: right;
+}
+footer{
+ 	font-size: 15px;
+	background-color: white;
+	color: black;
+	clear: both;
+	float: bottom;
+	margin-top: 1000px;
+}
+h2{
+	font-size: 18px;
+	color: darkred ;
+}
+h3{
+	font-size: 20px;
+	color: darkred;
+}
+h4{
+	margin-top: 200px;
+	color: darkred;
+	margin-bottom: 8px;
+}
+h5{
+	margin: 0px;
+	margin-top:3px;
+	margin-bottom: 6px;
+}
+p{
+	font-size: 12px;
+	margin:0px;
+}
+input, textarea{
+	display: block;
+	margin: 2px;
+}
