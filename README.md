@@ -1,7 +1,7 @@
 
 ## SnearkerShopReact
 
-This is a web application for users to online reserve the limited sneakers by using react, back-end server is developed to record and trace down customers' information submitted by users, further allow the store to cotact for ordering confirmation.
+This is a web application for users online to reserve limited sneakers by using React and a back-end server developed specifically to record and track customers' information submitted. This allows the store to easily attain and record ordering information. 
 
 
 In the project directory, you can run:
